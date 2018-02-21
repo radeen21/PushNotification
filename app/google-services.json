@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "959342439474",
+    "firebase_url": "https://pushnotification-38893.firebaseio.com",
+    "project_id": "pushnotification-38893",
+    "storage_bucket": "pushnotification-38893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959342439474:android:b4de5811fbc8f8c4",
+        "android_client_info": {
+          "package_name": "com.example.raden.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959342439474-mbpkaseo9s6ng3uifnmet6d2fmu28hl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbrYrpNoN_m7esUnq3xHwwMDepfe_B058"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
